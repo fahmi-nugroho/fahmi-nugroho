@@ -2,9 +2,11 @@
 
 Perkenalkan nama saya **Fahmi Nugroho**.\
 
-Saya seorang lulusan **Informatika** dari [UPN "veteran" Jawa Timur](https://www.upnjatim.ac.id/) yang memiliki minat di bidang pengembangan machine learning dan pengembangan website..\
+Saya seorang lulusan **Informatika** dari [UPN "veteran" Jawa Timur](https://www.upnjatim.ac.id/) yang memiliki minat di pengembangan website..\
+Saat ini saya sedang bekerja di salah satu perusahaan di kota Surabaya yang berjalan di bidang kesehatan.
+Tech stack yang saat ini sedang saya gunakan saat ini adalah Vue JS dan Nuxt JS, namun saya juga sedang belajar menggunakan NodeJS, lalu Express-MongoDB untuk BE, dan ReactJS-NextJS untuk FE
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fahmi-nugroho-7a1a6b1a0/)ku ya.
+Jika teman-teman tertarik untuk berkenalan, bisa cek akun [Linkedin](https://www.linkedin.com/in/fahmi-nugroho-7a1a6b1a0/) saya.
 
 <p align="left">
 <a href="https://github.com/fahmi-nugroho">
